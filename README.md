@@ -1,1 +1,2 @@
-Projeto de Todo-List com uso de Hooks,sendo eles : useState, useEffect e useRef
+Projeto de Todo-List 
+Usando para treinar os Hooks, sendo eles : useState, useEffect e useRef
